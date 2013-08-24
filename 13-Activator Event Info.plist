@@ -1,0 +1,7 @@
+{
+// Drop in /Library/Activator/Events
+	title = "Icon Tapped";
+	group = "Icons";
+	description = "When icon is tapped";
+	"compatible-modes" = ("springboard");
+}

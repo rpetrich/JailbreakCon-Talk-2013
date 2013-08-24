@@ -1,0 +1,5 @@
+{
+// Drop in /Library/Activator/Listeners
+	title = "Explode";
+	description = "Can haz explosion!?";
+}
