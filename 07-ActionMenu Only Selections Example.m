@@ -1,6 +1,6 @@
 #import <ActionMenu/ActionMenu.h>
 
-// Drop dylib or bundle in /Library/ActionMenu/Actions
+// Drop dylib or bundle in /Library/ActionMenu/Plugins
 
 @interface UIResponder (ExplodeAction)
 
